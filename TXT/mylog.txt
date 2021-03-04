@@ -7,3 +7,4 @@ ZCZC W00 100 L02 Zoom: Attended OS Class
 ZCZC W00 60 L05 GSGS: Finding methods for SEO
 ZCZC W00 20 L27 Pets: feeding, playing
 ZCZC W00 10 L23 Discord: reading announcements and discussion
+ZCZC W01 20 L11 Installing Debian
