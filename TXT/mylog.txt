@@ -17,3 +17,5 @@ ZCZC W01 40 L13 Assignment #3: Learn Some CLI Command and Vi Basic and Use Vi
 ZCZC W01 30 L14 Assignment #4: Create guest username and create .bash_aliases
 ZCZC W01 10 L15 Assignment #5: Using git in debian and clone my git repo
 ZCZC W01 15 L16 Assignment #6: Updating mylog.txt using vi editor in debian
+ZCZC W01 20 L17 Assignment #7: Updating my top 10 list for week 01
+ZCZC W01 30 L18 Assignemnt #8: Learning basic regex
