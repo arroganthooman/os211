@@ -1,15 +1,9 @@
-# Log Format
-# ZCZC WEEK# MINUTES LogCode Description
-
-# WEEK 0
 ZCZC W00 15 L03 Github related
 ZCZC W00 10 L23 Discord: join and reading rules
 ZCZC W00 100 L02 Zoom: Attended OS Class
 ZCZC W00 60 L05 GSGS: Finding methods for SEO
 ZCZC W00 20 L27 Pets: feeding, playing
 ZCZC W00 10 L23 Discord: reading announcements and discussion
-
-# WEEK 1
 ZCZC W01 100 L02 Zoom: Attended OS Class
 ZCZC W01 30 L11 Assignment #1: Installing Debian
 ZCZC W01 30 L12 Assignment #2: ATM and GSGS
@@ -18,4 +12,8 @@ ZCZC W01 30 L14 Assignment #4: Create guest username and create .bash_aliases
 ZCZC W01 10 L15 Assignment #5: Using git in debian and clone my git repo
 ZCZC W01 15 L16 Assignment #6: Updating mylog.txt using vi editor in debian
 ZCZC W01 20 L17 Assignment #7: Updating my top 10 list for week 01
-ZCZC W01 30 L18 Assignemnt #8: Learning basic regex
+ZCZC W01 30 L18 Assignment #8: Learning basic regex
+ZCZC W02 40 L10 Assignment (General)
+ZCZC W02 100 L05 GSGS about elementaryOS
+ZCZC W02 30 L99 Installing elementaryOS
+
