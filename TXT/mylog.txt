@@ -16,4 +16,4 @@ ZCZC W01 30 L18 Assignment #8: Learning basic regex
 ZCZC W02 40 L10 Assignment (General)
 ZCZC W02 100 L05 GSGS about elementaryOS
 ZCZC W02 30 L99 Installing elementaryOS
-
+ZCZC W02 100 L02 Zoom Related: Weekly class
