@@ -16,4 +16,8 @@ ZCZC W01 30 L18 Assignment #8: Learning basic regex
 ZCZC W02 40 L10 Assignment (General)
 ZCZC W02 100 L05 GSGS about elementaryOS
 ZCZC W02 30 L99 Installing elementaryOS
-ZCZC W02 100 L02 Zoom Related: Weekly class
+ZCZC W02 100 L02 Zoom Related: Weekly Class
+ZCZC W03 100 L03 Zoom Related: Weekly Class
+ZCZC W03 50 L22 YouTube: Searching video of File and File Systems
+ZCZC W03 25 L06 Reading OSC Chapter 13, 14, 15
+ZCZC W03 30 L05 GSGS about File and File Systems
