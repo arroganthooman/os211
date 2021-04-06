@@ -17,7 +17,7 @@ Artikel ini menjelaskan mengenai demand paging. Demand paging sendiri adalah seb
 4. [What is page fault?](http://digitalthinkerhelp.com/page-fault-in-os-operating-system-what-is-page-fault-handling/)<br>
 Page fault adalah kondisi terjadinya error. Dimana error tersebut disebabkan oleh program yang ingin mengakses memori yang tidak berada dalam physical memory.
 
-5. [Page Fault Handling](https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/)<br>
+5. [Page Fault Handling] (https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/)<br>
 Di link ini terdapat algoritma untuk menghandle page fault. Website ini cukup jelas dalam menjelaskan bagaimana cara menghandle page fault.
 
 6. [Performance of Demand Paging](http://boron.physics.metu.edu.tr/ozdogan/OperatingSystems/week10/node5.html)<br>
