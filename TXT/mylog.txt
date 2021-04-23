@@ -25,4 +25,7 @@ ZCZC W04 20 L05 GSGS about Pointers
 ZCZC W04 30 L22 YouTube: Watching video of pointer
 ZCZC W04 100 L02 Zoom Related: Weekly Class
 ZCZC W05 40 L05 GSGS about Week05 material
-ZCZC W05 15 L22 YouTube: Wathcing video of Week05 material
+ZCZC W05 15 L22 YouTube: Watching video of Week05 material
+ZCZC W06 40 L05 GSGS about Week06 material
+ZCZC W06 30 L22 YouTube: Watching video of Week06 material
+ZCZC W06 100 L10 Doing assignment W06    
