@@ -29,3 +29,6 @@ ZCZC W05 15 L22 YouTube: Watching video of Week05 material
 ZCZC W06 40 L05 GSGS about Week06 material
 ZCZC W06 30 L22 YouTube: Watching video of Week06 material
 ZCZC W06 100 L10 Doing assignment W06    
+ZCZC W07 100 L02 Zoom Related: Weekly Class
+ZCZC W07 120 L05 GSGS about week06 material
+ZCZC W07 100 L21 Installing virtualbox in my PC
