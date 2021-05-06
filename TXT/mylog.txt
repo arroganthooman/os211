@@ -32,3 +32,6 @@ ZCZC W06 100 L10 Doing assignment W06
 ZCZC W07 100 L02 Zoom Related: Weekly Class
 ZCZC W07 120 L05 GSGS about week06 material
 ZCZC W07 100 L21 Installing virtualbox in my PC
+ZCZC W08 100 L02 Zoom Related: Weekly Class
+ZCZC W08 120 L05 GSGS about week08 material
+ZCZC W08 100 L10 Doing W08 Assignment

@@ -9,6 +9,7 @@ Operating Systems 2021-1 (Semester Genap 2020/2021)
 [W05](https://arroganthooman.github.io/os211/W05/)<br>
 [W06](https://arroganthooman.github.io/os211/W06/)<br>
 [W07](https://arroganthooman.github.io/os211/W07/)<br>
+[W08](https://arroganthooman.github.io/os211/W08/)<br>
 
 ## Weekly Top 3 Rank
 [Weekly TOP 3](https://arroganthooman.github.io/os211/TXT/myrank.txt)<br>
